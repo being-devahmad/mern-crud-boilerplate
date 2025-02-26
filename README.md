@@ -142,7 +142,7 @@ If you have any questions or feedback, please contact:
 
 Your Name - devahmad41@gmail.com
 
-Project Link: https://github.com/yourusername/mern-task-manager
+Project Link: https://github.com/being-devahmad/mern-crud-boilerplate
 
 ```
 
